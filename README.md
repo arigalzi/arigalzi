@@ -16,15 +16,19 @@ I am also currently working in the R&D Team of [Oracle](https://www.oracle.com) 
 
 <h2 align="center"> Github Statistics </h2>
   
-  <div align="center"> 
+ <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arigalzi&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoMainetti&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arigalzi&theme=react&line_height=40&hide=css"/>
     </a>
+</div>
 
-</div
+</br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arigalzi&&style=flat-square&color=040720" align="center" style="width: 20%"/>
+</div>  
 
 &nbsp;
 

@@ -1,7 +1,7 @@
 ### Hi there! I'm Arianna 👩🏼‍💻 
 
-I'm a final year Computer Science and Engineering MSc student at [Politecnico di Milano](https://www.polimi.it) and president of [PolimiDataScientists](https://polimidatascientists.it). 
-I am also currently working in the R&D Team of [Oracle](https://www.oracle.com) for the implementation of some new cool features and my thesis, related to recommender systems, machine learning and online learning. 
+I'm a recent graduate in Computer Science and Engineering MSc at [Politecnico di Milano](https://www.polimi.it) and former president of [PolimiDataScientists](https://polimidatascientists.it). 
+I also worked in the R&D Team of [Oracle](https://www.oracle.com) for the implementation of some new cool features and my thesis, related to recommender systems, machine learning and online learning. 
 
 🌱 I’m currently learning more about data science, machine learning, deep learning and bioinformatics. 
 
